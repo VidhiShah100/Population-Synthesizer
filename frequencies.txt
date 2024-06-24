@@ -1,0 +1,16 @@
+Variable								Description								Frequency
+--------------------------------------------------------------------------------------------
+Sex
+										Female									24312
+										Male									25688
+--------------------------------------------------------------------------------------------
+Age_group
+										22-60 years								29983
+										Above 60 years								2617
+										Below 22 years								17400
+--------------------------------------------------------------------------------------------
+Highest_education_level
+										Graduation and above						11635
+										No formal education						7783
+										Primary Education						6165
+										Secondary Education						24417
